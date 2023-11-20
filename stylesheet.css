@@ -31,3 +31,10 @@ a {
 		margin-right: 5cm;
 	}
 }
+@media screen and (orientation:portrait) {
+	body {
+		margin-left: 0cm;
+		margin-right: 0cm;
+	}
+}
+
