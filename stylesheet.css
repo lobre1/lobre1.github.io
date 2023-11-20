@@ -4,7 +4,12 @@
 	margin-bottom: -3mm;
 }
 
-h1 {
+.small {
+	font-size: x-small;
+	margin-bottom: -5mm;
+}
+
+h1,h2 {
 	color: white;
 }
 
