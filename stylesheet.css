@@ -14,8 +14,6 @@ p,li {
 
 body {
 	background-color: black;
-	margin-left: 5cm;
-	margin-right: 5cm;
 }
 
 a {
@@ -26,4 +24,10 @@ a {
   height:2px;
   background:
     repeating-linear-gradient(90deg,purple 0 10px,#0000 0 12px)
+}
+@media screen and (orientation:landscape) {
+	body {
+		margin-left: 5cm;
+		margin-right: 5cm;
+	}
 }
