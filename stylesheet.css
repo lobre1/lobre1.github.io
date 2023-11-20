@@ -9,11 +9,11 @@
 	margin-bottom: -5mm;
 }
 
-h1,h2 {
+h1,h2,h3 {
 	color: white;
 }
 
-p,li {
+p,li,ul {
 	color: white;
 	font-size: 100%;
 	margin-bottom: 3mm;
