@@ -1,15 +1,18 @@
 .title {
 	text-align: center;
-	font-size: x-large;
+	font-size: xx-large;
+	margin-bottom: -3mm;
 }
 
 h1 {
 	color: white;
-	font-size: large;
 }
 
 p,li {
 	color: white;
+	font-size: 100%;
+	margin-bottom: 3mm;
+
 }
 
 body {
