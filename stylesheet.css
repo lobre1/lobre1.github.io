@@ -1,7 +1,7 @@
 .title {
 	text-align: center;
 	font-size: xx-large;
-	margin-bottom: -3mm;
+	margin-bottom: -2mm;
 }
 
 .small {
@@ -12,6 +12,12 @@
 .ib {
 	width: 88;
 	height: 31;
+}
+
+.centered {
+  position: fixed;
+  top: 50%;
+  left: 50%;
 }
 
 h1,h2,h3 {
@@ -57,7 +63,7 @@ a {
 	}
 
 	.size{
-		width: 62vw;
+		width: 70vw;
 		height: 55vh;
 	}
 }
