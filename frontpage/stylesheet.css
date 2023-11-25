@@ -1,6 +1,8 @@
 .center {
   display: flex;
   justify-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 p {
@@ -13,8 +15,8 @@ body{
 
 #rcorners1 {
   border-radius: 15px 50px;
-  padding: 0px; 
-  height: 150px;  
+  padding: 5px; 
+  height: 125px;  
 }
 
 
