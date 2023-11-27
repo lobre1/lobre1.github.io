@@ -13,6 +13,11 @@ body{
 	background-color: black;
 }
 
+iframe{
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
 #rcorners1 {
   border-radius: 15px 50px;
   padding: 5px; 
