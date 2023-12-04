@@ -15,15 +15,6 @@
       <li><a href="projects.html#projects">Projects</a></li>
       <li><a href="projects.html#miniprojects">Mini Projects</a></li>
       <center><h2 id="projects">Projects</h2></center>
-       <div class="flex-container">
-         <a href="./secpages/projectPages/blackberryProject/bbProjectPage.html" style="text-decoration:none;">
-          <div style="position:relative; background-color:white; width:275px; height:450px;" class="flex-child a" id="rcorners1">
-             <h3 style="text-align:center; color:black; padding:20px;">Blackberry 9720 Revival</h3>
-             <p style="color:black; margin-top:-30px; margin-bottom:5px; text-align:center;">Trying to get the BB9720 usable in 2023</p>
-             <center><img src="secpages/projectPages/blackberryProject/blackberry.png" height=320 width=208/></center>
-          </div>
-         </a>
-       </div>
       <center><h2 id="miniprojects">Mini projects</h2></center>
       <div class="flex-container">
          <div style="position:relative;" class="flex-child a">
