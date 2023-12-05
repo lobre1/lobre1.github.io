@@ -107,11 +107,12 @@ a {
   background:
     repeating-linear-gradient(90deg,purple 0 10px,#0000 0 12px)
 }
+
 @media screen and (orientation:landscape) {
-	body {
+	/*body {
 		margin-left: 5cm;
 		margin-right: 5cm;
-	}
+	}*/
 
 	.size{
 		width: 65vw;
@@ -119,10 +120,10 @@ a {
 	}
 }
 @media screen and (orientation:portrait) {
-	body {
+	/*body {
 		margin-left: 0cm;
 		margin-right: 0cm;
-	}
+	}*/
 	.size{
 		width: 70vw;
 		height: 62vh;
