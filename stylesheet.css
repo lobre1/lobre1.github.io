@@ -33,6 +33,38 @@
     margin-right: 5px;
 } 
 
+.card{
+	position:relative;
+	background-color:white; 
+	width:290px; 
+	height:417px;
+}
+
+.cardTitle{
+	text-align:center; 
+	color:black; 
+	padding:20px;
+}
+
+.cardSub{
+	color:black; 
+	margin-top:-30px; 
+	margin-bottom:5px; 
+	margin-left:10px;
+	margin-right:10px;
+	text-align:center;
+}
+
+.cardA{
+	position:absolute;
+	top:0;
+	left:0;
+	display:inline-block;
+	width:290px;
+	height:417px;
+	z-index:5;
+}
+
 
 h1,h2,h3 {
 	color: white;
@@ -100,3 +132,20 @@ a {
 #rcorners1 {
   border-radius: 10px;
 }
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+	color: white;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;
+}
+
+/*tr:nth-child(even) {
+  background-color: grey;
+}*/
